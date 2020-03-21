@@ -10,14 +10,15 @@ I’m a marketing specialist working in China.
 - 2017-2018: Doing operation analysis and sales prediction
 - 2018-2019: Product Marketing (Project management, new product launch, marketing strategy and offline PR events)
 - 2020: Corporation brand planning and management
+
 **2. Other Stuff**
 - Recently, I enrolled in a “Big Data Analysts” course reviewing analytical methods and learning Python, Hive, MySQL etc. If everything goes well, I‘ll complete the course this summer.
-- I started my video channel on 03/21/2020. 
 - I do side jobs as a copywriter. The clients come from the Internet/automotive/sports industry. 
 - I exercise at least 30 minutes a day.
+- I'll start my video channel this month.
 - I’m interested in finance and economics. Maybe I’ll take the CFA exam in the near future. 
 
-## Know More about Me
+### Know More about Me
 I love the idea of meeting up with interesting people. If you’ve got a short message or question, please email me at lccthu@foxmail.com or add me on WeChat (ID: oakmoncc). 
 
 
