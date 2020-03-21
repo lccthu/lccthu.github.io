@@ -1,9 +1,9 @@
-## About Me
+# About Me
 
-### Me in 2 Seconds
+## Me in 2 Seconds
 I’m a marketing specialist working in China.
 
-### Me in 2 Minutes
+## Me in 2 Minutes
 **1. What I was working on**
 - 2011-2015: Studying journalism in Tsinghua University
 - 2015-2016: Studying STEM major in US
@@ -18,7 +18,7 @@ I’m a marketing specialist working in China.
 - I'll start my video channel this month.
 - I’m interested in finance and economics. Maybe I’ll take the CFA exam in the near future. 
 
-### Know More about Me
+## Know More about Me
 I love the idea of meeting up with interesting people. If you’ve got a short message or question, please email me at lccthu@foxmail.com or add me on WeChat (ID: oakmoncc). 
 
 
