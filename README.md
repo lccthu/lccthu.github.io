@@ -17,7 +17,7 @@ I’m a marketing specialist working in China.
 - I exercise at least 30 minutes a day.
 - I’m interested in finance and economics. Maybe I’ll take the CFA exam in the near future. 
 
-##Know More about Me
+## Know More about Me
 I love the idea of meeting up with interesting people. If you’ve got a short message or question, please email me at lccthu@foxmail.com or add me on WeChat (ID: oakmoncc). 
 
 
