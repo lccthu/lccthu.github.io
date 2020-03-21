@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## About Me
 
-Can use the [editor on GitHub](https://github.com/lccthu/lccthu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Me in 2 Seconds
+I’m a marketing specialist working in China.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Me in 2 Minutes
+**1. What I was working on**
+- 2011-2015: Studying journalism in Tsinghua University
+- 2015-2016: Studying STEM major in US
+- 2017-2018: Doing operation analysis and sales prediction
+- 2018-2019: Product Marketing (Project management, new product launch, marketing strategy and offline PR events)
+- 2020: Corporation brand planning and management
+**2. Other Stuff**
+- Recently, I enrolled in a “Big Data Analysts” course reviewing analytical methods and learning Python, Hive, MySQL etc. If everything goes well, I‘ll complete the course this summer.
+- I started my video channel on 03/21/2020. 
+- I do side jobs as a copywriter. The clients come from the Internet/automotive/sports industry. 
+- I exercise at least 30 minutes a day.
+- I’m interested in finance and economics. Maybe I’ll take the CFA exam in the near future. 
 
-### Markdown
+##Know More about Me
+I love the idea of meeting up with interesting people. If you’ve got a short message or question, please email me at lccthu@foxmail.com or add me on WeChat (ID: oakmoncc). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lccthu/lccthu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+updated date: 03/21/2020
